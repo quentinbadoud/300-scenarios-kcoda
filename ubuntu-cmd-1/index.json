@@ -1,0 +1,16 @@
+{
+  "title": "Test des compétences de base et des permissions sous Linux Ubuntu",
+  "description": "Un scénario pour tester les compétences sur les commandes de base et les permissions sous Linux 
+Ubuntu.",
+  "steps": [
+    {
+      "title": "Introduction",
+      "text": "step1.md",
+      "verify": "step1-verify.sh"
+    }
+  ],
+  "environment": {
+    "uilayout": "terminal"
+  }
+}
+
