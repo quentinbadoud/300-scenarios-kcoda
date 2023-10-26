@@ -9,6 +9,6 @@
     }
   ],
   "environment": {
-    "uilayout": "terminal"
+    "imageid": "ubuntu"
   }
 }
