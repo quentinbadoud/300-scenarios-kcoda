@@ -8,7 +8,7 @@
       "verify": "step1-verify.sh"
     }
   ],
-  "environment": {
+  "backend": {
     "imageid": "ubuntu"
   }
 }
