@@ -1,8 +1,5 @@
-# Introduction
-
-Bienvenue dans ce scénario Katacoda où vous allez tester vos compétences sur les commandes de base et les permissions 
-sous Linux Ubuntu. Suivez les instructions à chaque étape et entrez les commandes dans le terminal pour progresser.
-
+## Introduction
+Bienvenue dans ce scénario Katacoda où vous allez tester vos compétences sur les commandes de base et les permissions sous Linux Ubuntu. Suivez les instructions à chaque étape et entrez les commandes dans le terminal pour progresser.
 ## Objectif
 
 Se familiariser avec l'environnement et comprendre les objectifs du scénario.

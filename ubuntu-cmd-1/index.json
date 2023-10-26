@@ -1,7 +1,6 @@
 {
   "title": "Test des compétences de base et des permissions sous Linux Ubuntu",
-  "description": "Un scénario pour tester les compétences sur les commandes de base et les permissions sous Linux 
-Ubuntu.",
+  "description": "Un scénario pour tester les compétences sur les commandes de base et les permissions sous Linux Ubuntu.",
   "steps": [
     {
       "title": "Introduction",
@@ -13,4 +12,3 @@ Ubuntu.",
     "uilayout": "terminal"
   }
 }
-
